@@ -5,7 +5,6 @@ ourTurtle = turtle.Turtle()
 
 
 ourTurtle.color("brown")
-
 ourTurtle.color("blue")
 ourTurtle.color("red")
 ourTurtle.color("yellow")

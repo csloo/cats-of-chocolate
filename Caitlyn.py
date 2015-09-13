@@ -49,6 +49,16 @@ ourTurtle.fd(110)
 ourTurtle.rt(90)
 ourTurtle.color("green")
 ourScreen.Backgroundcolor("red")
+ourTurtle.reset()
+ourTurtle.fd(100)
+ourTurtle.lt(90)
+ourTurtle.fd(100)
+ourTurtle.lt(90)
+ourTurtle.fd(100)
+ourTurtle.lt(90)
+ourTurtle.fd(100)
+ourTurtle.shape("turtle")
+
 
 
 ourScreen.exitonclick()

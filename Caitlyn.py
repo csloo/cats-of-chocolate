@@ -58,6 +58,13 @@ ourTurtle.fd(100)
 ourTurtle.lt(90)
 ourTurtle.fd(100)
 ourTurtle.shape("turtle")
+ourTurtle.fd(100)
+ourTurtle.color("yellow")
+ourScreen.Backgroundcolor("blue")
+ourTurtle.lt(90)
+ourTurtle.fd(100)
+
+ourScreen.exitonclick()
 
 
 
